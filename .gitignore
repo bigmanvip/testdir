@@ -1,0 +1,17 @@
+﻿build/*
+LogFile/*
+debug.log
+.vscode/*
+1.Project/*
+1.BSProject/*
+2.saveImage/*
+log/*
+0.*_Log/*
+1.*_[p,P]rojects/*
+2.*_[s,S]aveImages/*
+src/lib/halcon12x64/halcon.dll
+xmlDataFileAll.xml
+src/lib/halcon12x64/halconxl.dll
+# grpc静态库太大2.2G
+src/lib/grpc/*
+src/lib/**/opencv_world*.dll
